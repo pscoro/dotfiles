@@ -1,0 +1,11 @@
+# Screen layout
+/home/pau/.screenlayout/1920x1080_60.sh &
+
+# Keyboard Layout
+setxkbmap ch &
+
+# Wallpaper
+nitrogen --restore &
+
+# Compositor
+picom -f &
