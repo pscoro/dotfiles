@@ -5,6 +5,7 @@
   - XMobar
   - Terminator
   - Nitrogen
+  - XProfile
   
 #### Also includes:
   - xrandr set screenlayout 1920x1080 60.00hz shell script
